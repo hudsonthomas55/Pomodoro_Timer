@@ -1,5 +1,5 @@
 # Pomodoro_Timer
-A Pomodoro app to help with productivity - Uses Tkinter
+A Pomodoro app to help with productivity and prevent burnout
 
 
 This GUI application is designed to help productivity. 
